@@ -40,13 +40,13 @@ you can purchase the application from Here as well
 
 | Tech Stack | Application Status | Application type | 
 |------------|----------------- |---------------------| 
-| Python | Developed  | [Paid](https://buy.stripe.com/aEU9E3fD04Zl1igdQS)
+| Python | Developed  | [Paid](https://application.ressurectedbird.co.in/ADBcheckout.html)
 
 * RouterExpoilt
 
 | Tech Stack | Application Status | Application Type | 
 |------------|--------------------|------------------|
-| Python | Development | [Paid](https://buy.stripe.com/14kg2r8ayajF9OMfYZ)
+| Python | Development | [Paid](https://application.ressurectedbird.co.in/REcheckout.htmlZ)
 
 # Credits
 # Netlify 
